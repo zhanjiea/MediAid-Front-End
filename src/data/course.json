@@ -1,0 +1,82 @@
+[
+  {
+    "courseId": 1,
+    "title": "Automated External Defibrillator (AED)",
+    "description": "Proper use of an AED to treat sudden cardiac arrest, medical device that can analyze the heart's rhythm and deliver an electrical shock.",
+    "details": "This course provides comprehensive training on the safe and effective use of Automated External Defibrillators (AEDs). Participants will learn to identify cardiac arrest, assess the patient’s condition, and follow the proper steps for attaching and operating the AED. Through guided demonstrations and simulated emergency scenarios, learners gain confidence in handling high-stress situations where every second counts. The course also covers important safety measures, battery and pad maintenance, and how to integrate AED use within a larger emergency response plan. Designed for both first-time users and professionals seeking refresher training, this course ensures you are ready to take lifesaving action when it matters most.",
+    "image": "/src/assets/aed.webp",
+    "material": "/src/assets/video.mp4"
+  },
+  {
+    "courseId": 2,
+    "title": "Basic First Aid",
+    "description": "Learn to provide initial assistance for injuries and illnesses before professional help arrives.",
+    "details": "The Basic First Aid course is an essential introduction to immediate care during medical emergencies. You will learn how to assess a situation quickly and provide the necessary aid for common injuries such as cuts, bruises, burns, fractures, and sprains. The training includes recognizing the signs of shock, handling bleeding, and ensuring the safety of both the rescuer and the victim. Participants will practice hands-on techniques, including wound dressing, bandaging, and proper communication with emergency responders. Upon completion, you will have the foundational skills to manage everyday accidents and emergencies with confidence and calmness.",
+    "image": "/src/assets/aed.webp",
+    "material": "/src/assets/video.mp4"
+  },
+  {
+    "courseId": 3,
+    "title": "CPR Training",
+    "description": "Learn how to perform chest compressions and rescue breaths to maintain blood circulation in emergencies.",
+    "details": "This course teaches the critical lifesaving skill of cardiopulmonary resuscitation (CPR). You will learn when and how to administer chest compressions and rescue breaths to sustain oxygen flow to the brain and vital organs during cardiac arrest. The training combines practical demonstrations with real-time feedback to help you perfect compression depth, rate, and rhythm. You’ll also explore the integration of CPR with AED usage and team-based resuscitation. By the end of the session, participants will feel equipped to act decisively in cardiac emergencies and provide vital support until medical professionals take over.",
+    "image": "/src/assets/aed.webp",
+    "material": "/src/assets/video.mp4"
+  },
+  {
+    "courseId": 4,
+    "title": "Choking Response & Heimlich Maneuver",
+    "description": "Identify choking symptoms and apply correct abdominal thrust techniques safely.",
+    "details": "In this course, you’ll learn to recognize the signs of choking and respond quickly using safe, effective techniques such as the Heimlich maneuver. Participants are guided through step-by-step demonstrations to clear airway obstructions in adults, children, and infants. The course emphasizes proper hand placement, pressure control, and adapting techniques for different body types and conditions. You will also learn how to manage post-choking care and when to seek professional help. Through realistic practice scenarios, this training helps you build confidence to take immediate, life-saving action during choking emergencies.",
+    "image": "/src/assets/aed.webp",
+    "material": "/src/assets/video.mp4"
+  },
+  {
+    "courseId": 5,
+    "title": "Bleeding Control & Bandaging",
+    "description": "Learn techniques to control excessive bleeding, apply dressings, and use pressure points.",
+    "details": "This course focuses on the critical steps of controlling bleeding and preventing shock in trauma situations. Participants learn how to apply direct pressure, use elevation, and properly position a victim to minimize blood loss. The training also includes techniques for dressing wounds, applying tourniquets, and using pressure points effectively. You will gain hands-on experience in applying different types of bandages and stabilizing injuries. By the end of the course, you’ll understand how to respond calmly to bleeding injuries, manage wound care, and ensure the victim’s stability until professional medical assistance arrives.",
+    "image": "/src/assets/aed.webp",
+    "material": "/src/assets/video.mp4"
+  },
+  {
+    "courseId": 6,
+    "title": "Burns and Scald Treatment",
+    "description": "Understand burn severity and apply appropriate immediate first aid treatment methods.",
+    "details": "This detailed course helps you understand the types and severities of burns, including thermal, chemical, and electrical burns. You will learn how to assess burn depth, manage pain, and prevent infection through proper cooling and dressing techniques. The training includes practical examples of when to use running water, sterile coverings, or non-adhesive dressings. Participants will also be taught how to avoid common mistakes such as using ice or breaking blisters. By completing this course, you will be able to provide effective first aid care for minor burns and recognize when advanced medical treatment is required.",
+    "image": "/src/assets/aed.webp",
+    "material": "/src/assets/video.mp4"
+  },
+  {
+    "courseId": 7,
+    "title": "Fractures & Sprains Management",
+    "description": "Recognize broken bones and stabilize injuries using slings and support techniques.",
+    "details": "In this course, participants learn how to identify fractures, sprains, and dislocations and apply proper stabilization techniques to minimize pain and further injury. You will practice creating makeshift splints, using slings, and immobilizing limbs in various positions. The course also covers the importance of assessing circulation, sensation, and movement before and after applying support. Through interactive demonstrations, you’ll gain the skills to respond safely and confidently when faced with musculoskeletal injuries, whether in a home, workplace, or outdoor environment.",
+    "image": "/src/assets/aed.webp",
+    "material": "/src/assets/video.mp4"
+  },
+  {
+    "courseId": 8,
+    "title": "Heat Stroke & Hypothermia",
+    "description": "Identify symptoms of temperature-related emergencies and administer first-level care.",
+    "details": "This course provides vital knowledge for handling heat and cold-related emergencies such as heat stroke, heat exhaustion, and hypothermia. You’ll learn to identify warning signs like confusion, dizziness, or shivering and apply immediate care to stabilize body temperature. Training includes cooling and warming methods, fluid management, and prevention strategies for different environments. Through simulated case studies, participants will understand how to act quickly to prevent complications and protect vulnerable individuals, including children and the elderly. By the end, you’ll be prepared to manage temperature-related emergencies with skill and composure.",
+    "image": "/src/assets/aed.webp",
+    "material": "/src/assets/video.mp4"
+  },
+  {
+    "courseId": 9,
+    "title": "Poisoning & Allergic Reactions",
+    "description": "Learn to respond to chemical poisoning and severe allergic reactions such as anaphylaxis.",
+    "details": "This specialized course trains you to respond effectively to poisoning and allergic emergencies. You’ll learn how to identify common sources of poisoning—such as chemicals, medications, or foods—and take immediate steps to reduce harm. The program also covers recognizing severe allergic reactions (anaphylaxis), using epinephrine auto-injectors, and maintaining airway safety. Participants will gain the confidence to stay calm, call emergency services promptly, and provide supportive care while awaiting medical assistance. This course is essential for caregivers, educators, and anyone who wants to be ready for unexpected allergic or toxic exposure situations.",
+    "image": "/src/assets/aed.webp",
+    "material": "/src/assets/video.mp4"
+  },
+  {
+    "courseId": 10,
+    "title": "Emergency Scene Assessment",
+    "description": "Learn how to safely assess the situation, check responsiveness, call for help, and act confidently.",
+    "details": "This course teaches the critical first steps of emergency management — how to assess the scene safely and take control of a crisis. Participants will learn to evaluate hazards, determine the number of victims, and establish priorities before performing any interventions. The training emphasizes communication, teamwork, and rapid decision-making. You’ll also learn to use the DRABC (Danger, Response, Airway, Breathing, Circulation) framework to conduct initial assessments efficiently. By mastering these foundational skills, you’ll gain the confidence to act decisively and ensure safety for yourself and others during emergencies.",
+    "image": "/src/assets/aed.webp",
+    "material": "/src/assets/video.mp4"
+  }
+]

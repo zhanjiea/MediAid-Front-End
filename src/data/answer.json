@@ -1,0 +1,258 @@
+[
+  {
+    "studentId": 1,
+    "studentName": "Alice Tan",
+    "courseId": 1,
+    "examId": 101,
+    "graded": false,
+    "score": null,
+    "answers": [
+      {
+        "questionId": 1763013901001,
+        "answer": 1
+      },
+      {
+        "questionId": 1763013901002,
+        "answer": "Before using an AED, make sure the area is safe, check for water, and ensure no one is touching the victim."
+      },
+      {
+        "questionId": 1763013901102,
+        "answer": "Ensure the AED is on, follow voice instructions, and confirm nobody is in contact before shocking."
+      }
+    ]
+  },
+  {
+    "studentId": 1,
+    "studentName": "Alice Tan",
+    "courseId": 1,
+    "examId": 102,
+    "graded": false,
+    "score": null,
+    "answers": [
+      {
+        "questionId": 1763013901003,
+        "answer": 1
+      },
+      {
+        "questionId": 1763013901004,
+        "answer": "AED prompts guide the rescuer step by step so mistakes are prevented during high-stress situations."
+      }
+    ]
+  },
+
+  {
+    "studentId": 2,
+    "studentName": "Marcus Lee",
+    "courseId": 2,
+    "examId": 201,
+    "graded": false,
+    "score": null,
+    "answers": [
+      {
+        "questionId": 1763013902001,
+        "answer": 3
+      },
+      {
+        "questionId": 1763013902002,
+        "answer": "Checking the scene ensures the rescuer does not become another victim and can plan the right actions."
+      }
+    ]
+  },
+
+  {
+    "studentId": 3,
+    "studentName": "Siti Nur",
+    "courseId": 3,
+    "examId": 301,
+    "graded": true,
+    "score": 0,
+    "answers": [
+      {
+        "questionId": 1763013903001,
+        "answer": 2
+      },
+      {
+        "questionId": 1763013903002,
+        "answer": 0
+      }
+    ]
+  },
+
+  {
+    "studentId": 4,
+    "studentName": "John Park",
+    "courseId": 4,
+    "examId": 401,
+    "graded": false,
+    "score": null,
+    "answers": [
+      {
+        "questionId": 1763013904001,
+        "answer": 1
+      },
+      {
+        "questionId": 1763013904002,
+        "answer": "Stand behind them, make a fist, place it above the navel, and thrust inward and upward repeatedly."
+      }
+    ]
+  },
+
+  {
+    "studentId": 5,
+    "studentName": "Chloe Wong",
+    "courseId": 5,
+    "examId": 501,
+    "graded": false,
+    "score": null,
+    "answers": [
+      {
+        "questionId": 1763013905001,
+        "answer": 2
+      },
+      {
+        "questionId": 1763013905002,
+        "answer": "Pressure slows blood loss and helps clotting, preventing shock."
+      }
+    ]
+  },
+
+  {
+    "studentId": 3,
+    "studentName": "Siti Nur",
+    "courseId": 6,
+    "examId": 601,
+    "graded": false,
+    "score": null,
+    "answers": [
+      {
+        "questionId": 1763013906001,
+        "answer": 1
+      },
+      {
+        "questionId": 1763013906002,
+        "answer": "First-degree burns affect just the top layer; second-degree burns cause blisters and deeper tissue damage."
+      }
+    ]
+  },
+
+  {
+    "studentId": 2,
+    "studentName": "Marcus Lee",
+    "courseId": 7,
+    "examId": 701,
+    "graded": false,
+    "score": null,
+    "answers": [
+      {
+        "questionId": 1763013907001,
+        "answer": 0
+      },
+      {
+        "questionId": 1763013907002,
+        "answer": "Use firm materials like a board or rolled newspapers and wrap the limb gently to prevent movement."
+      }
+    ]
+  },
+
+  {
+    "studentId": 1,
+    "studentName": "Alice Tan",
+    "courseId": 8,
+    "examId": 801,
+    "graded": false,
+    "score": null,
+    "answers": [
+      {
+        "questionId": 1763013908001,
+        "answer": 3
+      },
+      {
+        "questionId": 1763013908002,
+        "answer": "Warm them gradually using blankets and warm air; never use direct heat or hot water."
+      }
+    ]
+  },
+
+  {
+    "studentId": 5,
+    "studentName": "Chloe Wong",
+    "courseId": 9,
+    "examId": 901,
+    "graded": false,
+    "score": null,
+    "answers": [
+      {
+        "questionId": 1763013909001,
+        "answer": 2
+      },
+      {
+        "questionId": 1763013909002,
+        "answer": "Call emergency services, check breathing, and identify what substance was taken before giving help."
+      }
+    ]
+  },
+
+  {
+    "studentId": 4,
+    "studentName": "John Park",
+    "courseId": 10,
+    "examId": 1001,
+    "graded": true,
+    "score": 90,
+    "answers": [
+      {
+        "questionId": 1763013910001,
+        "answer": 0
+      },
+      {
+        "questionId": 1763013910002,
+        "answer": "Check responsiveness, breathing, and look for obvious injuries quickly."
+      }
+    ]
+  },
+  {
+    "studentId": 6,
+    "studentName": "Daniel Koh",
+    "courseId": 1,
+    "examId": 101,
+    "graded": false,
+    "score": null,
+    "answers": [
+        {
+        "questionId": 1763013901001,
+        "answer": 2
+        },
+        {
+        "questionId": 1763013901002,
+        "answer": "Ensure no hazards nearby and assess the victim before operating the AED."
+        },
+        {
+        "questionId": 1763013901102,
+        "answer": "Always stand clear and follow the AED's step-by-step voice guidance."
+        }
+    ]
+    },
+    {
+    "studentId": 7,
+    "studentName": "Brian Chia",
+    "courseId": 1,
+    "examId": 101,
+    "graded": true,
+    "score": 2,
+    "answers": [
+        {
+        "questionId": 1763013901001,
+        "answer": 0
+        },
+        {
+        "questionId": 1763013901002,
+        "answer": "Check the surroundings and make sure no one is touching the victim before applying the pads."
+        },
+        {
+        "questionId": 1763013901102,
+        "answer": "Confirm safety, listen to the device prompts, and keep others away before pressing the shock button."
+        }
+    ]
+    }
+
+]

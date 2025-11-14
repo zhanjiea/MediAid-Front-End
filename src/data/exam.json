@@ -1,0 +1,345 @@
+[
+  {
+    "courseId": 1,
+    "exams": [
+      {
+        "examId": 101,
+        "title": "AED Basics Exam",
+        "questions": [
+          {
+            "id": 1763013901001,
+            "type": "mc",
+            "prompt": "What is the primary function of an AED?",
+            "choices": [
+              "Monitor blood pressure",
+              "Analyze heart rhythm and deliver shock",
+              "Measure oxygen level",
+              "Assist with breathing"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "id": 1763013901002,
+            "type": "essay",
+            "prompt": "Describe the safety steps to follow before using an AED.",
+            "choices": ["", "", "", ""],
+            "correctIndex": 0,
+            "answerPlaceholder": "Your answer here..."
+          },
+            {
+            "id": 1763013901102,
+            "type": "essay",
+            "prompt": "Describe the safety steps to follow before using an AED.",
+            "choices": ["", "", "", ""],
+            "correctIndex": 0,
+            "answerPlaceholder": "Your code here..."
+          }
+        ]
+      },
+      {
+        "examId": 102,
+        "title": "AED Advanced Exam",
+        "questions": [
+          {
+            "id": 1763013901003,
+            "type": "mc",
+            "prompt": "Where should AED pads be placed on an adult patient?",
+            "choices": [
+              "Both on the abdomen",
+              "One on chest, one on lower back",
+              "Upper right chest and lower left side",
+              "Both on the neck"
+            ],
+            "correctIndex": 2
+          },
+          {
+            "id": 1763013901004,
+            "type": "essay",
+            "prompt": "Explain the importance of following AED voice prompts.",
+            "choices": ["", "", "", ""],
+            "correctIndex": 0,
+            "answerPlaceholder": "Your answer here..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": 2,
+    "exams": [
+      {
+        "examId": 201,
+        "title": "First Aid Fundamentals",
+        "questions": [
+          {
+            "id": 1763013902001,
+            "type": "mc",
+            "prompt": "What is the first step in providing basic first aid?",
+            "choices": [
+              "Start CPR immediately",
+              "Check the scene for safety",
+              "Call emergency services first",
+              "Provide water to the patient"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "id": 1763013902002,
+            "type": "essay",
+            "prompt": "Explain why assessing the scene is crucial before providing first aid.",
+            "choices": ["", "", "", ""],
+            "correctIndex": 0,
+            "answerPlaceholder": "Explain your reasoning..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": 3,
+    "exams": [
+      {
+        "examId": 301,
+        "title": "CPR Knowledge Test",
+        "questions": [
+          {
+            "id": 1763013903001,
+            "type": "mc",
+            "prompt": "What is the correct chest compression depth for adults during CPR?",
+            "choices": [
+              "About 1 inch",
+              "About 2 inches",
+              "About 3 inches",
+              "Half an inch"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "id": 1763013903002,
+            "type": "mc",
+            "prompt": "What is the recommended compression to breath ratio for adults?",
+            "choices": ["15:2", "30:2", "20:5", "10:1"],
+            "correctIndex": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": 4,
+    "exams": [
+      {
+        "examId": 401,
+        "title": "Choking Response Test",
+        "questions": [
+          {
+            "id": 1763013904001,
+            "type": "mc",
+            "prompt": "What is the main sign that someone is choking?",
+            "choices": [
+              "They start coughing loudly",
+              "They cannot speak or breathe",
+              "They are sweating heavily",
+              "They hold their head"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "id": 1763013904002,
+            "type": "essay",
+            "prompt": "Explain the steps for performing the Heimlich maneuver on an adult.",
+            "choices": ["", "", "", ""],
+            "correctIndex": 0,
+            "answerPlaceholder": "List the steps clearly..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": 5,
+    "exams": [
+      {
+        "examId": 501,
+        "title": "Bleeding Management Exam",
+        "questions": [
+          {
+            "id": 1763013905001,
+            "type": "mc",
+            "prompt": "Which of the following is the best first step to control bleeding?",
+            "choices": [
+              "Apply pressure directly on the wound",
+              "Rinse the wound with alcohol",
+              "Remove the object causing the wound",
+              "Elevate the wound without pressure"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "id": 1763013905002,
+            "type": "essay",
+            "prompt": "Describe the importance of applying pressure when managing bleeding.",
+            "choices": ["", "", "", ""],
+            "correctIndex": 0,
+            "answerPlaceholder": "Type your answer..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": 6,
+    "exams": [
+      {
+        "examId": 601,
+        "title": "Burns Treatment Test",
+        "questions": [
+          {
+            "id": 1763013906001,
+            "type": "mc",
+            "prompt": "What should you do immediately for a minor burn?",
+            "choices": [
+              "Apply ice directly",
+              "Cool under running water",
+              "Cover tightly with plastic",
+              "Apply butter or oil"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "id": 1763013906002,
+            "type": "essay",
+            "prompt": "Explain the difference between first-degree and second-degree burns.",
+            "choices": ["", "", "", ""],
+            "correctIndex": 0,
+            "answerPlaceholder": "Describe key differences..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": 7,
+    "exams": [
+      {
+        "examId": 701,
+        "title": "Bone Injury Assessment",
+        "questions": [
+          {
+            "id": 1763013907001,
+            "type": "mc",
+            "prompt": "What is the most important step when managing a fracture?",
+            "choices": [
+              "Move the bone back into place",
+              "Immobilize the affected area",
+              "Apply heat",
+              "Massage the area"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "id": 1763013907002,
+            "type": "essay",
+            "prompt": "Describe how to create a simple splint using common materials.",
+            "choices": ["", "", "", ""],
+            "correctIndex": 0,
+            "answerPlaceholder": "Write your response..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": 8,
+    "exams": [
+      {
+        "examId": 801,
+        "title": "Temperature Emergencies Test",
+        "questions": [
+          {
+            "id": 1763013908001,
+            "type": "mc",
+            "prompt": "What is the main difference between heat exhaustion and heat stroke?",
+            "choices": [
+              "Heat stroke involves a high body temperature and confusion",
+              "Heat exhaustion is more dangerous",
+              "Heat stroke causes shivering",
+              "Both are the same"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "id": 1763013908002,
+            "type": "essay",
+            "prompt": "Explain how to safely rewarm a person suffering from hypothermia.",
+            "choices": ["", "", "", ""],
+            "correctIndex": 0,
+            "answerPlaceholder": "Explain the process..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": 9,
+    "exams": [
+      {
+        "examId": 901,
+        "title": "Emergency Reactions Quiz",
+        "questions": [
+          {
+            "id": 1763013909001,
+            "type": "mc",
+            "prompt": "Which symptom indicates a severe allergic reaction (anaphylaxis)?",
+            "choices": [
+              "Mild rash",
+              "Runny nose",
+              "Swelling of tongue and difficulty breathing",
+              "Sneezing"
+            ],
+            "correctIndex": 2
+          },
+          {
+            "id": 1763013909002,
+            "type": "essay",
+            "prompt": "Describe the correct steps to take if someone is suspected of poisoning.",
+            "choices": ["", "", "", ""],
+            "correctIndex": 0,
+            "answerPlaceholder": "List the actions to take..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": 10,
+    "exams": [
+      {
+        "examId": 1001,
+        "title": "Scene Safety and Response Test",
+        "questions": [
+          {
+            "id": 1763013910001,
+            "type": "mc",
+            "prompt": "What is the first thing to check when you arrive at an emergency scene?",
+            "choices": [
+              "Victim's pulse",
+              "Scene safety",
+              "Injury type",
+              "Location of bystanders"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "id": 1763013910002,
+            "type": "essay",
+            "prompt": "Explain how to perform a quick initial assessment of a patient.",
+            "choices": ["", "", "", ""],
+            "correctIndex": 0,
+            "answerPlaceholder": "Provide your explanation..."
+          }
+        ]
+      }
+    ]
+  }
+]
