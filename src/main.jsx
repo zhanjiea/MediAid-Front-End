@@ -4,51 +4,55 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import "./index.css";
 
-import Dashboard from "./pages/Instructor/Dashboard.jsx";
-import Courses from "./pages/Instructor/Courses.jsx";
-import CourseDetail from "./pages/Instructor/CourseDetail.jsx";
-import AddExam from "./pages/Instructor/AddExam.jsx";
-import Exam from "./pages/Instructor/Exam.jsx";
-import Grade from "./pages/Instructor/Grade.jsx";
-import GradeExam from "./pages/Instructor/GradeExam.jsx"
+// Instructors
+import InstructorsDashboard from "./pages/Instructor/Dashboard.jsx";
+import InstructorsCourses from "./pages/Instructor/Courses.jsx";
+import InstructorsCourseDetail from "./pages/Instructor/CourseDetail.jsx";
+import InstructorsAddExam from "./pages/Instructor/AddExam.jsx";
+import InstructorsExam from "./pages/Instructor/Exam.jsx";
+import InstructorsGrade from "./pages/Instructor/Grade.jsx";
+import InstructorsGradeExam from "./pages/Instructor/GradeExam.jsx";
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <Dashboard />,
-  },
-  {
-    path: "/courses",
-    element: <Courses />,
-  },
-  {
-    path: "/courses/:courseId",
-    element: <CourseDetail />,
-  },
-  {
-    path: "/courses/:courseId/addexam",
-    element: <AddExam />,
-  },
-  {
-    path: "/courses/:courseId/:examId",
-    element: <AddExam />,
-  },
-  {
-    path: "/exam",
-    element: <Exam />,
-  },
-  {
-    path: "/exam/:examId",
-    element: <Grade />
-  },
-  {
-    path: "/exam/:examId/:studentId",
-    element: <GradeExam />
-  },
-]);
+// Registered users
+import RUserDashboard from './pages/RegisteredUsers/RUDashboard.jsx'
+import RUCourses from "./pages/RegisteredUsers/RUCourses.jsx";
+import RUCourseDetail from "./pages/RegisteredUsers/RUCourseDetail.jsx";
+import RUTakeExam from "./pages/RegisteredUsers/RUTakeExam.jsx";
+import RUGrade from "./pages/RegisteredUsers/RUGrade.jsx";
+import RUGradeExam from "./pages/RegisteredUsers/RUGradeExam.jsx";
 
-createRoot(document.getElementById("root")).render(
-  <StrictMode>
-    <RouterProvider router={router} />
-  </StrictMode>
-);
+const userType = "Register user"; 
+
+if (userType === "Instructor") { 
+  const router = createBrowserRouter([
+    { path: "/", element: <InstructorsDashboard /> },
+    { path: "/courses", element: <InstructorsCourses /> },
+    { path: "/courses/:courseId", element: <InstructorsCourseDetail /> },
+    { path: "/courses/:courseId/addexam", element: <InstructorsAddExam /> },
+    { path: "/courses/:courseId/:examId", element: <InstructorsAddExam /> },
+    { path: "/exam", element: <InstructorsExam /> },
+    { path: "/exam/:examId", element: <InstructorsGrade /> },
+    { path: "/exam/:examId/:studentId", element: <InstructorsGradeExam /> },
+  ]);
+
+  createRoot(document.getElementById("root")).render(
+    <StrictMode>
+      <RouterProvider router={router} />
+    </StrictMode>
+  );
+}else{
+    const router = createBrowserRouter([
+    { path: "/", element: <RUserDashboard /> },
+    { path: "/courses", element: <RUCourses /> },
+    { path: "/courses/:courseId", element: <RUCourseDetail /> },
+    { path: "/courses/:courseId/:examId", element: <RUTakeExam /> },
+    { path: "/exam", element: <RUGrade /> },
+    { path: "/exam/:examId", element: <RUGradeExam /> },
+  ]);
+
+  createRoot(document.getElementById("root")).render(
+    <StrictMode>
+      <RouterProvider router={router} />
+    </StrictMode>
+  );
+}

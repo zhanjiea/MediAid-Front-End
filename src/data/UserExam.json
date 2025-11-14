@@ -1,0 +1,138 @@
+{
+  "userId": 1,
+  "name": "John Doe",
+  "examAttempts": [
+    {
+      "courseId": 1,
+      "examId": 101,
+      "title": "AED Basics Exam",
+      "graded": false,
+      "score": null,
+      "questions": [
+        {
+          "questionId": 1763013901001,
+          "type": "mc",
+          "answer": 0,
+          "score": null
+        },
+        {
+          "questionId": 1763013901002,
+          "type": "essay",
+          "answer": "Check surroundings and ensure safety before using AED.",
+          "score": 20
+        },
+        {
+          "questionId": 1763013901102,
+          "type": "essay",
+          "answer": "Follow the AED prompts and confirm no one is touching the patient.",
+          "score": null
+        }
+      ]
+    },
+    {
+      "courseId": 1,
+      "examId": 102,
+      "title": "AED Advanced Exam",
+      "graded": true,
+      "score": 92,
+      "questions": [
+        {
+          "questionId": 1763013901003,
+          "type": "mc",
+          "answer": 2,
+          "score": 1
+        },
+        {
+          "questionId": 1763013901004,
+          "type": "essay",
+          "answer": "Listening to AED prompts ensures correct timing and safety.",
+          "score": 18
+        }
+      ]
+    },
+    {
+      "courseId": 2,
+      "examId": 201,
+      "title": "First Aid Fundamentals",
+      "graded": false,
+      "score": null,
+      "questions": [
+        {
+          "questionId": 1763013902001,
+          "type": "mc",
+          "answer": 1,
+          "score": null
+        },
+        {
+          "questionId": 1763013902002,
+          "type": "essay",
+          "answer": "Assessing the scene prevents danger to the rescuer.",
+          "score": null
+        }
+      ]
+    },
+    {
+      "courseId": 3,
+      "examId": 301,
+      "title": "CPR Knowledge Test",
+      "graded": true,
+      "score": 70,
+      "questions": [
+        {
+          "questionId": 1763013903001,
+          "type": "mc",
+          "answer": 1,
+          "score": 1
+        },
+        {
+          "questionId": 1763013903002,
+          "type": "mc",
+          "answer": 1,
+          "score": 1
+        }
+      ]
+    },
+    {
+      "courseId": 4,
+      "examId": 401,
+      "title": "Choking Response Test",
+      "graded": false,
+      "score": null,
+      "questions": [
+        {
+          "questionId": 1763013904001,
+          "type": "mc",
+          "answer": 1,
+          "score": null
+        },
+        {
+          "questionId": 1763013904002,
+          "type": "essay",
+          "answer": "",
+          "score": null
+        }
+      ]
+    },
+    {
+      "courseId": 5,
+      "examId": 501,
+      "title": "Bleeding Management Exam",
+      "graded": true,
+      "score": 95,
+      "questions": [
+        {
+          "questionId": 1763013905001,
+          "type": "mc",
+          "answer": 0,
+          "score": 1
+        },
+        {
+          "questionId": 1763013905002,
+          "type": "essay",
+          "answer": "Direct pressure slows bleeding and helps clotting.",
+          "score": 24
+        }
+      ]
+    }
+  ]
+}
