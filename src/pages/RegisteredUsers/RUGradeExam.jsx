@@ -247,6 +247,7 @@ const RUGradeExam = () => {
                                                 onChange={(e) => handleMarkChange(question.id, e.target.value)}
                                                 className="w-20 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-purple-500"
                                                 placeholder="0-100"
+                                                disabled
                                             />
                                             <span className="text-sm text-gray-500">/ 100</span>
                                         </div>
